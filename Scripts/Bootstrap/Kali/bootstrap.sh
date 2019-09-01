@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-#Bootstrap the system
+#Bootstrap system
 rm -rf $2
 mkdir $2
 if [ "$1" = "i386" ] || [ "$1" = "amd64" ] ; then
