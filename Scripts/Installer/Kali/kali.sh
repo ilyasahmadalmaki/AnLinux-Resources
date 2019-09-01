@@ -78,4 +78,4 @@ echo "making $bin executable"
 chmod +x $bin
 echo "removing image for some space"
 rm $tarball
-echo "You can now launch Kali with the ./${bin} script"
+echo "Sekarang anda bisa menjalan Kali Linux dengan melakukan perintah ./${bin} script"
