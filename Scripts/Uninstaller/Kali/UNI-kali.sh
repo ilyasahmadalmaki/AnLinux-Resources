@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-echo "Starting to uninstall, please be patient..."
+echo "Sedang melakukan penghapusan, mohon bersabar..."
 
 chmod 777 -R kali-fs
 rm -rf kali-fs
@@ -15,4 +15,4 @@ rm -rf de-apt-lxqt.sh
 rm -rf de-apt-lxde.sh
 rm -rf UNI-kali.sh
 
-echo "Done"
+echo "Selesai"
